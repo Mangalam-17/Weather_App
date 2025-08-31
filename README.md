@@ -80,15 +80,12 @@ index.html
 
 ## **Screenshots**
 
-![HomePage]()
+![HomePage](https://github.com/Mangalam-17/Weather_App/blob/d19f896160ddcd278999d3d84ce2b0de575ec43c/preview.png)
 
 ## **API Reference**
 
-[Insert API documentation here]
-
-## **Author**
-
-👤 [Your Name]
+[https://openweathermap.org/api]
+This api has been referred from Open Weather Map Api, you can also check out
 
 ## **License**
 
